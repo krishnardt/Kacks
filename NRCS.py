@@ -1,13 +1,9 @@
 # -*- coding: utf-8 -*-
 """
-Created on Sat Dec 28 13:10:56 2019
+Created on Wed Jan 29 18:47:58 2020
 
-@author: hp
+@author: Krishna
 """
-
-
-
-
 
 def NRCS(s):
     if len(s) == 0:
